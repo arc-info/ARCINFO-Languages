@@ -18,7 +18,7 @@
   "ascend": "Ascend",
   "error": "Error!",
   "code": "CODE:",
-  "denied": "Permission Denied. This can be your account data's problem. Try re-login.",
+  "denied": "Permission Denied. This can be your account data problem. Try re-login.",
   "search": {
     "placeholder": "Enter Friend Code or Nickname...",
     "search": "Search",
@@ -29,7 +29,7 @@
       "title": "Keyword Invaild",
       "desc": "Keyword is must be less than 15 characters and more than 3 characters. Only Number and Alphabets."
     },
-    "noresults": "Search Returned No Results. Try Other Keyword.",
+    "noresults": "Search Returned No Results. Try Another Keyword.",
     "notice": "If the desired user hasn't updated data at all, we can't find it."
   },
   "view": "View",
@@ -43,7 +43,7 @@
     "popover": {
       "best30": {
         "title": "What is BEST 30?",
-        "desc": "BEST 30 Songs are affect your potential directly."
+        "desc": "BEST 30 Songs are affecting your potential directly."
       },
       "shiny30": {
         "title": "What is SHINY 30?",
@@ -51,7 +51,7 @@
       },
       "target": {
         "title": "What is TARGET?",
-        "desc": "Target Songs aren't affect your potential directly, but If you made better, These songs can affect your potential."
+        "desc": "Target Songs aren't affecting your potential directly, but If you made better, These songs can affect your potential."
       },
       "immeasurable": {
         "title": "Why?",
@@ -59,15 +59,15 @@
       },
       "recent_immeasurable": {
         "title": "Why Recent Top 10 is Immeasurable?",
-        "desc": "This user hide own potential. Recent Top 10 avg. is Based on User's potential and best 30 avg."
+        "desc": "This user hide its own potential. Recent Top 10 avg. is Based on User's potential and best 30 avg."
       },
       "rating_sim": {
         "title": "What is Rating Simulator?",
-        "desc": "You can use sliders to get score for desired rating. red area in top bar means score range to raise best 30."
+        "desc": "You can use sliders to get a score for the desired rating. the red area in the top bar means score range to raise the best 30."
       },
       "shiny_rating": {
         "title": "What is SHINY RATING?",
-        "desc": "Basically, Arcaea's Potential System is not affected by Shiny PURE. SHINY RATING is made by ARCINFO to include Shiny PURE in Your Skill Rating.(Max Shiny Rating is Max Rating + 0.5)"
+        "desc": "Basically, Arcaea's Potential System is not affected by Shiny PURE. SHINY RATING is made by ARCINFO to include Shiny PURE in Your Skill Rating. (Max Shiny Rating is Max Rating + 0.5)"
       }
     },
     "best30": "BEST 30",
@@ -94,7 +94,7 @@
       "error": {
         "title": "Error",
         "desc": "Data Update is Failed. Reason: {reason} Code {code}",
-        "reason": "Unknown error. Please report to admin.",
+        "reason": "Unknown error. Please report to the admin.",
         "reason_601": "Minimum Update Interval is 6 minutes.",
         "reason_404": "Can't Find user. Please try another user."
       }
@@ -147,7 +147,7 @@
       }
     },
     "no_more": "No more results, In ARCINFO, We won't load records that song's chart constant is lower than Your Ptt-3",
-    "disabled_update": "You can't update this profile unless you're owner."
+    "disabled_update": "You can't update this profile unless you're an owner."
   },
   "partners": [
     "Hikari", "Tairitsu", "Kou", "Sapphire", "Lethe", "Hikari & Tairitsu", "Tairitsu (Axium)", "Tairitsu (Grievous Lady)", "Stella",
@@ -237,7 +237,7 @@
       "subjective": "Subjective",
       "records": "Chart Record Analysis",
       "records_count": "Record Count: {count}",
-      "records_desc": "X axis means Player's Potential, Y axis means Record's Potential. Note: This data does NOT REPRESENT all players in Arcaea. And Records of Player with too low Potential can be omitted.",
+      "records_desc": "X-axis means Player's Potential, Y-axis means Record's Potential. Note: This data does NOT REPRESENT all players in Arcaea. And Records of Player with too low Potential can be omitted.",
       "records_disabled": "Chart Records Analysis is Temporarily Disabled because of Recent BP Changes.",
       "records_graph": {
         "med_title": "Potential Median",
@@ -322,24 +322,24 @@
     "mission_health": "MISSION HEALTH",
     "warning": {
       "title": "Warning",
-      "intro": "Before you start mission, You have to read this carefully.",
-      "one":  "After you click START Button below, You have to play song and see result on Arcaea in 3min 30sec.",
-      "two": "After you seeing result on Arcaea(Seeing result means when Retry and Go Back button is appeared), You have to click CHECK button on mission page.",
+      "intro": "Before you start a mission, You have to read this carefully.",
+      "one":  "After you click START Button below, You have to play a song and see the result on Arcaea in 3min 30sec.",
+      "two": "After you seeing the result on Arcaea(Seeing result means when Retry and Go Back button is appeared), You have to click CHECK button on mission page.",
       "three": "If you don't, Your result isn't recorded and your mission is automatically failed.",
       "four": "If you cleared selected mission, Your results are recorded on ranking, and you'll get marked as clear in your profile.",
-      "outtro": "When ready, click START button and play!",
+      "outtro": "When ready, click the START button and play!",
       "cancel": "Cancel"
     },
     "target_songs": "Target Songs",
     "notfound": "Player not found. Try update user info and retry.",
     "find": "Find",
     "click_to_see": "Click Song name to View Conditions for that song.",
-    "time_limit": "This error is due to time limit. Please refresh this page.",
+    "time_limit": "This error is due to the time limit. Please refresh this page.",
     "rankings": "{mission} Rankings",
     "rankings_of": "{from}-{to} of {all}",
     "my_rank": "My Rank",
     "rank_all": "Overall Ranking",
-    "unauthorized": "This account is verified, Please log in."
+    "unauthorized": "This account is verified, Please login."
   },
   "auth": {
     "login": "Login",
@@ -355,12 +355,12 @@
     "link": {
       "already_linked": "This Account is Already Linked.",
       "title": "Account Link",
-      "desc": "To Verify Yourself, Please Play song with condition written below. And Click Check Button.",
+      "desc": "To Verify Yourself, Please Play a song with condition written below. And Click Check Button.",
       "note": "You can use HARD gauge Partners for fast verification.",
       "check": "Check now",
       "time_left": "{time} Left",
       "linked": "Account is Linked!",
-      "failed": "Verfication Failed. Refresh to Retry.",
+      "failed": "Verification Failed. Refresh to Retry.",
       "go_back": "Go Back",
       "refresh": "Refresh"
     }
@@ -370,7 +370,7 @@
     "desc": "Information about World mode.",
     "calculator": {
       "title": "World Calculator",
-      "desc": "Enter step range to progress and partner's STEP stat. It will show you right score range for available songs.",
+      "desc": "Enter step range to progress and partner's STEP stat. It will show you the right score range for available songs.",
       "help": "Use Ctrl+F to find desired songs.",
       "hard": "If you failed with HARD gauge partners, 2.5 * (Partner's STEP stat / 50) is your step progress.",
       "far": "Two FARs are same as One LOST.",
