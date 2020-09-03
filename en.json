@@ -31,7 +31,8 @@
       "desc": "Keyword is must be less than 15 characters and more than 3 characters. Only Number and Alphabets."
     },
     "noresults": "Search Returned No Results. Try Another Keyword.",
-    "notice": "If the desired user hasn't updated data at all, we can't find it."
+    "notice": "If the desired user hasn't updated data at all, we can't find it by Nickname.",
+    "newuserhelp": "Try to find yourself with 9-digit code if you're a newcomer of ARCINFO."
   },
   "view": "View",
   "user": {
