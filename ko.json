@@ -14,6 +14,7 @@
   "yes": "예",
   "no": "아니오",
   "lang": "언어",
+  "addlang": "{github} 에서 새 언어 추가...",
   "loading": "로드 중...",
   "descend": "내림차순",
   "ascend": "오름차순",
