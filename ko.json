@@ -7,6 +7,8 @@
     "multiplayer": "멀티플레이어",
     "report": "오류 제보"
   },
+  "support_ch": "중국의 Arcaea 커뮤니티를 도와주세요! {link}를 눌러 더 알아보세요.",
+  "support_ch_link": "여기(영어)",
   "donate": "ARCINFO의 안정적인 서비스를 위해 여러분의 기부가 필요합니다!",
   "readonly": "Arcaea API 업데이트 혹은 점검으로 인해 ARCINFO가 읽기 전용 모드입니다. 미션이나 데이터 업데이트, 계정 연결 등의 서비스를 이용할 수 없습니다.",
   "ok": "확인",
